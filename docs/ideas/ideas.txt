@@ -1,0 +1,15 @@
+📊 AI for Business/CRM
+
+    Sales Forecasting Model –
+    Predict future revenue using past CRM data (time series forecasting).
+
+    Sentiment Analysis on Customer Feedback –
+    Analyze user messages or support tickets. Integrate with CRM dashboard.
+
+    AI Email Classifier –
+    Auto-sort customer emails: sales, support, spam, etc.
+
+    Lead Scoring Model –
+    Predict which CRM leads are most likely to convert.
+
+    you can use python prophet library to predict future sales
