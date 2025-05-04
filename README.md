@@ -26,13 +26,19 @@ A simple Customer Relationship Management (CRM) application built with:
 1 setup postgresql create crm_system database and load database.sql
 
 2. Navigate to the backend directory:
-
    ```bash
    cd CRM-APP
    go mod tidy
 3 run the server
-```bash
-go run cmd/server/main.go
+   ```bash
+   go run cmd/server/main.go
+   ```
+4 Frontend (Next.js)
+Navigate to the frontend directory:
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+   ```
 
-
-
+and good luck
